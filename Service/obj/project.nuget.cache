@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xzk/PL7dCsk=",
+  "success": true,
+  "projectFilePath": "/home/ismail/Documents/Repositories/DeepResearchApp/Service/Service.csproj",
+  "expectedPackageFiles": [
+    "/home/ismail/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

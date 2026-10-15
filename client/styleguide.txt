@@ -1,0 +1,116 @@
+Core surfaces
+
+#0D100E	Main page, workspace, and report background
+#111512	Bars and advanced-options panel
+#151A16	Setup modal background
+#181D19	Input fields, unselected depth cards, action buttons, and progress card
+#19271E	Selected research-depth card
+#1C241E	Active and hovered sidebar navigation or recent item
+#17241B	Key-insight report card
+#20352A	“Research complete” pill
+#203128	Completed progress-stage indicator
+#243B2C	Key-insight icon background
+#263A2D	Bars count badge
+#28322A	Profile avatar background
+#28302A	Empty progress-bar track
+
+
+Primary text
+
+#EDF2ED	Default text, major headings, field text, modal title, and active card text
+#FFFFFF	Brand-mark icon and primary button text
+#D9E1DB	Report lead paragraph
+#D1D9D3	Source titles
+#C8D0CA	Form field labels
+#B0B9B2	Recent-research titles
+#ABB5AD	Finding labels
+#A0AAA2	Report body and report subtitle text
+
+
+Secondary and muted text
+
+#939D95	Advanced-option labels
+#8D968F	Modal supporting text and depth metadata
+#89928B	Progress description and stage details
+#8C978F	Default sidebar navigation text
+#8D9990	Completed research-stage text
+#818A83	Top navigation text
+#79827B	Finding descriptions
+#748078	Source-link icons
+#737D75	Report table-of-contents links
+#717A73	Bars labels, keyboard hint, profile subtitle, and timestamps
+#6C756E	Report metadata, source numbering, and small labels
+#69716B	Modal duration note
+#626A64	Character count and depth-card helper text
+#606861	Background-processing note
+#59615B	Inactive progress-stage text
+
+
+Emerald accents
+
+#3B7D59	Brand mark, primary button, and active progress-stage circle
+#4A9368	Primary button hover
+#548F68	Focused textarea border
+#57956C	Selected depth-card border and active stage border
+#58956B	Key-insight card accent border
+#65B17F	Live-status indicator
+#6BB181	Active report contents border
+#71B789	Section labels, report footnotes, progress percentage, and selected radio dot
+#72AD85	Active progress-stage status text
+#78BD8E	Key-finding statistics
+#79B88E	Completed progress checkmark
+#7FC696	“Deep Research” modal label
+#84C798	“Research complete” pill text
+#88C89B	Key-insight icon
+#8BB99A	Live-status text
+#8FD0A5	Active sidebar navigation text
+#92C9A3	Active report table-of-contents text
+#9BD4AD	Research orb icon
+#A8CBB2	Profile avatar initials
+#A8D0B4	Report quote text
+
+
+Borders and separators
+
+#242A25	Sticky top-bar border
+#252A26	Bars and mobile-header border
+#272D28	Profile section separator
+#29302A	Report finding and source-row separators
+#2A302B	Modal footer and report-header separator
+#2C332E	Inputs, cards, buttons, and progress-module borders
+#304137	Research-orb rings
+#343B35	Modal outer border
+#353D37	Inactive stage-circle border
+#375642	Completed stage-circle border
+#385443	Blockquote borders
+#3F6A4D	Research-orb border
+#4B5B50	Research-depth card hover border
+#4F5E53	General button hover border
+#59625B	Unselected radio border
+
+
+Gradients
+
+#27362C → #17231B	Radial gradient inside the animated research orb
+#397953 → #6AB281	Progress-bar fill
+
+
+Focus, rings, and shadows
+
+#203326	Textarea focus ring
+#1B2B20	Active progress-stage outer ring
+#213A29	Live-status indicator ring
+
+rgb(87 164 112 / 28%)	Progress-bar glow
+rgb(79 139 102 / 22%)	Animated live-status pulse
+rgb(79 139 102 / 0%)	Transparent end of live-status pulse
+rgb(40 91 67 / 20%)	Primary button shadow
+rgb(0 0 0 / 20%)	Progress-card shadow
+rgb(0 0 0 / 36%)	Research-orb shadow
+rgb(0 0 0 / 58%)	Setup modal shadow
+
+
+Transparent overlays
+
+rgb(13 16 14 / 88%)	Translucent sticky top bar
+rgb(4 7 5 / 74%)	Dark modal backdrop

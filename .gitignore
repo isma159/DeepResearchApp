@@ -1,0 +1,53 @@
+# ---------- .NET ----------
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.DotSettings.user
+*.log
+TestResults/
+publish/
+
+# User secrets and local config
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+.env
+
+# ---------- SQLite (local databases) ----------
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# ---------- Node / React / Vite ----------
+node_modules/
+dist/
+build/
+.vite/
+*.tsbuildinfo
+coverage/
+
+# Env files
+.env.local
+.env.*.local
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------- Electron (if added later) ----------
+out/
+release/
+
+# ---------- Editors and OS ----------
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.DS_Store
+Thumbs.db
